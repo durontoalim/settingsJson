@@ -1,0 +1,11 @@
+{
+    "editor.hover.enabled": false,
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 16,
+    "editor.wordWrap": "on",
+    "editor.fontFamily": "'cascadia code', Consolas, 'Courier New', monospace",
+    "bracketPairColorizer.depreciation-notice": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.iconTheme": "material-icon-theme"
+
+}
